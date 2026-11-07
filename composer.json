@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/quran-php-tafseer-cross-linker",
+  "description": "Classical Tafseer & Asbab Al-Nuzul Knowledge Graph Linker (رابط الآيات بالتفاسير المأثورة وأسباب النزول)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
